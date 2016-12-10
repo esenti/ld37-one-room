@@ -1,0 +1,24 @@
+{
+  "name": "ld30-connected-worlds",
+  "version": "0.0.0",
+  "description": "Ludum Dare 30",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/esenti/ld30-connected-worlds.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esenti/ld30-connected-worlds/issues"
+  },
+  "homepage": "https://github.com/esenti/ld30-connected-worlds",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-coffee": "^0.10.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
